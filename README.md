@@ -1,2 +1,2 @@
 # web_development
-This is a basic frontend project made by using html,css.
+Our platform is designed with a clean and intuitive interface using HTML and CSS, ensuring easy navigation and accessibility for users
